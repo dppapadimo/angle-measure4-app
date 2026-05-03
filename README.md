@@ -1,5 +1,3 @@
-#-measure4-app
-Measures angles
 # 📐 Angle Measure Pro v4
 
 ## Features
